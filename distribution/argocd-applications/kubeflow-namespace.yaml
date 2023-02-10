@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/amr-as90/argoflow
+    repoURL: https://github.com/amr-as90/argoflow.git
     targetRevision: HEAD
     path: distribution/kubeflow/namespace
     kustomize:
